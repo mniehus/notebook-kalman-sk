@@ -1,6 +1,11 @@
 # notebook-kalman
 
-Python notebooks with simple examples in probability therory, least square method and Kalman filters 
+Python notebooks with simple examples from 
+- random variables 
+- probability therory
+- least square method
+- Kalman filters 
+
 Slovak version
 
 001-009 Základné pojmy, náhodná premenná, normálne rozdelenie, transformácia normálneho rozdelenia 
