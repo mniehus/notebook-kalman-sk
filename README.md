@@ -13,7 +13,7 @@ Slovak version
 
 010-019 Viacrozmerná náhodná premenná a jej vlastnosti
 
-020-029 Alpha-Beta (g-h) filter
+020-029 g-hfilter
 
 ...
 
