@@ -1,10 +1,11 @@
 # notebook-kalman
 
-Python notebooks with simple examples from 
+Work notebooks with simple python examples from 
 - random variables 
 - probability therory
 - least square method
 - Kalman filters 
+- etc ...
 
 Slovak version
 
