@@ -13,7 +13,9 @@ Slovak version
 
 010-019 Viacrozmerná náhodná premenná a jej vlastnosti
 
-020-029 g-hfilter
+020-029 g-h filter
+
+030-039 Jednorozmerny Kalmanov filter
 
 ...
 
